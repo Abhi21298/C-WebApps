@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entities\CreditPay.cs" />
+    <Compile Remove="Entities\DebitPay.cs" />
+    <Compile Remove="Entities\IPayment.cs" />
+    <Compile Remove="Entities\Review.cs" />
+    <Compile Remove="Entities\Specification.cs" />
+    <Compile Remove="Entities\Tag.cs" />
+  </ItemGroup>
+
+</Project>

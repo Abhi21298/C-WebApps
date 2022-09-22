@@ -1,0 +1,139 @@
+﻿@model AmazonWeb.Core.Entities.CardDetails
+
+@{
+    ViewData["Title"] = "PayIndex";
+}
+
+
+
+<html>
+<head>
+
+    
+    <link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/assets/css/flaticon.css">
+    <link rel="stylesheet" href="~/assets/css/slicknav.css">
+    <link rel="stylesheet" href="~/assets/css/animate.min.css">
+    <link rel="stylesheet" href="~/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="~/assets/css/themify-icons.css">
+    <link rel="stylesheet" href="~/assets/css/slick.css">
+    <link rel="stylesheet" href="~/assets/css/all.css">
+    <link rel="stylesheet" href="~/assets/css/nice-select.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <main>
+        <h2 class="title">Checkout here!</h2>
+        
+        
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="payment-method">
+                            <label for="card" class="method card">
+                                <div class="card-logos">
+                                    <img src="https://designmodo.com/demo/checkout-panel/img/visa_logo.png" />
+                                    <img src="https://designmodo.com/demo/checkout-panel/img/mastercard_logo.png" />
+                                </div>
+
+                                <div class="radio-input">
+                                    <input id="card" type="radio" name="payment">
+                                    Pay <span>@ViewBag.total</span> with debit card
+
+                                </div>
+                                <div class="radio-input">
+                                    <input id="card" type="radio" name="payment">
+                                    Pay <span>@ViewBag.total</span> with credit card
+                                </div>
+                            </label>
+                        </div>
+                        <form asp-action="PayIndex">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label asp-for="Name" class="control-label"></label>
+                                        <input asp-for="Name" class="form-control" />
+                                        <span asp-validation-for="Name" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label asp-for="CardNumber" class="control-label"></label>
+                                        <input asp-for="CardNumber" class="form-control" />
+                                        <span asp-validation-for="CardNumber" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label asp-for="ValidDate" class="control-label"></label>
+                                        <input asp-for="ValidDate" class="form-control" />
+                                        <span asp-validation-for="ValidDate" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label asp-for="CVV " class="control-label"></label>
+                                        <input asp-for="CVV" type="password" class="form-control" />
+                                        <span asp-validation-for="CVV" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <!--<input type="submit" value="Create" class="btn btn-primary" />-->
+                                <div class="hero__caption">
+                                    <div class="hero__btn" data-animation="fadeInLeft" data-delay=".8s" data-duration="2000ms">
+                                        <input type="submit" value="Submit" class="btn hero-btn" />
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="hero__caption">
+                            <div class="hero__btn" data-animation="fadeInLeft" data-delay=".8s" data-duration="2000ms">
+                                <a class="btn hero-btn" asp-area="" asp-controller="CartItem" asp-action="Index">Back</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       
+    </main>
+    <script src="~/assets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <!-- Jquery, Popper, Bootstrap -->
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="~/assets/js/popper.min.js"></script>
+    <script src="~/assets/js/owl.carousel.min.js"></script>
+    <script src="~/assets/js/slick.min.js"></script>
+
+    <script src="~/assets/js/wow.min.js"></script>
+    <script src="~/assets/js/animated.headline.js"></script>
+
+    <script src="~/assets/js/jquery.scrollUp.min.js"></script>
+    <script src="~/assets/js/jquery.nice-select.min.js"></script>
+    <script src="~/assets/js/jquery.sticky.js"></script>
+    <script src="~/assets/js/jquery.magnific-popup.js"></script>
+    <script src="~/assets/js/payment.js"></script>
+    <script src="~/assets/js/contact.js"></script>
+    <script src="~/assets/js/jquery.form.js"></script>
+    <script src="~/assets/js/jquery.validate.min.js"></script>
+    <script src="~/assets/js/mail-script.js"></script>
+    <script src="~/assets/js/jquery.ajaxchimp.min.js"></script>
+
+    <script src="~/assets/js/plugins.js"></script>
+    <script src="~/assets/js/main.js"></script>
+
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+
+</body>
+</html>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

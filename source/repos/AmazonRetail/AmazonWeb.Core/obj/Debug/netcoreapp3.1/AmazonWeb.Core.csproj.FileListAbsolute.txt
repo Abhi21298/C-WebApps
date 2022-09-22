@@ -1,0 +1,19 @@
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.AssemblyInfoInputs.cache
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.AssemblyInfo.cs
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonWeb.Core\bin\Debug\netcoreapp3.1\AmazonWeb.Core.deps.json
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonWeb.Core\bin\Debug\netcoreapp3.1\AmazonWeb.Core.dll
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonWeb.Core\bin\Debug\netcoreapp3.1\AmazonWeb.Core.pdb
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.dll
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.pdb
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonWeb.Core\bin\Debug\netcoreapp3.1\AmazonWeb.Core.deps.json
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonWeb.Core\bin\Debug\netcoreapp3.1\AmazonWeb.Core.dll
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonWeb.Core\bin\Debug\netcoreapp3.1\AmazonWeb.Core.pdb
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.csprojAssemblyReference.cache
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.AssemblyInfoInputs.cache
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.AssemblyInfo.cs
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.dll
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.pdb
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.csproj.AssemblyReference.cache
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.GeneratedMSBuildEditorConfig.editorconfig

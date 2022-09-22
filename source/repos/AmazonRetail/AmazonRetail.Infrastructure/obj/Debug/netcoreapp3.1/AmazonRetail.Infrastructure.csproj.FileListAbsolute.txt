@@ -1,0 +1,31 @@
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.AssemblyInfo.cs
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonWeb.Core.dll
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.deps.json
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.dll
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.pdb
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonWeb.Core.pdb
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.csproj.CopyComplete
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.dll
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.pdb
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.runtimeconfig.json
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.runtimeconfig.dev.json
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.genruntimeconfig.cache
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.deps.json
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.runtimeconfig.json
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.runtimeconfig.dev.json
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.dll
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.pdb
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonWeb.Core.dll
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonWeb.Core.pdb
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.csprojAssemblyReference.cache
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.AssemblyInfo.cs
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.csproj.CopyComplete
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.dll
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.pdb
+C:\Users\AbhijeetMRao\Desktop\eshop\17th March AmazonRetail\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.genruntimeconfig.cache
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AbhijeetMRao\source\repos\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
