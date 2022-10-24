@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Booking.Core.Entities.Movie>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Now-Showing</h1>
+@if (ViewBag.admin == "admin@gmail.com")
+{
+<p>
+    <a asp-action="Create">Add-a-New-Show</a> |
+    <a asp-controller="Bookings" asp-action="MovieHistory">Movies-History</a>
+</p>
+   
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MovieName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageFile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Datetime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SeatsAvailable)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MovieName)
+                </td>
+                <td>
+                    <img src="~/gallery/@Html.DisplayFor(modelItem => item.ImageFile)" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Datetime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SeatsAvailable)
+                </td>
+                <td>
+
+
+                    @if (ViewBag.admin == "admin@gmail.com")
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> <br />
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+
+                    }
+                    else
+                    {
+                        <a asp-controller="Bookings" asp-action="Buy" asp-route-id="@item.Id">Book-Now</a>
+                    }
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

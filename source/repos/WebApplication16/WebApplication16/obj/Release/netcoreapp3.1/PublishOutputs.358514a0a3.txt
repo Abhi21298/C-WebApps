@@ -1,0 +1,11 @@
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\WebApplication16.exe
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\appsettings.Development.json
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\appsettings.json
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\WebApplication16.dll
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\WebApplication16.deps.json
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\WebApplication16.runtimeconfig.json
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\WebApplication16.pdb
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\System.Net.Http.Formatting.dll
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\System.Web.Http.dll
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\Newtonsoft.Json.dll
+C:\Users\AbhijeetMRao\source\repos\WebApplication16\WebApplication16\obj\Docker\publish\Newtonsoft.Json.Bson.dll

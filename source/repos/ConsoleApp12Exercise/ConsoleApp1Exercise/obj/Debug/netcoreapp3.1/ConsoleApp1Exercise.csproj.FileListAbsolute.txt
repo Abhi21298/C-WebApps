@@ -1,0 +1,13 @@
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\bin\Debug\netcoreapp3.1\ConsoleApp1Exercise.exe
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\bin\Debug\netcoreapp3.1\ConsoleApp1Exercise.deps.json
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\bin\Debug\netcoreapp3.1\ConsoleApp1Exercise.runtimeconfig.json
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\bin\Debug\netcoreapp3.1\ConsoleApp1Exercise.runtimeconfig.dev.json
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\bin\Debug\netcoreapp3.1\ConsoleApp1Exercise.dll
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\bin\Debug\netcoreapp3.1\ConsoleApp1Exercise.pdb
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\obj\Debug\netcoreapp3.1\ConsoleApp1Exercise.csprojAssemblyReference.cache
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\obj\Debug\netcoreapp3.1\ConsoleApp1Exercise.AssemblyInfoInputs.cache
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\obj\Debug\netcoreapp3.1\ConsoleApp1Exercise.AssemblyInfo.cs
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\obj\Debug\netcoreapp3.1\ConsoleApp1Exercise.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\obj\Debug\netcoreapp3.1\ConsoleApp1Exercise.dll
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\obj\Debug\netcoreapp3.1\ConsoleApp1Exercise.pdb
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp1Exercise\ConsoleApp1Exercise\obj\Debug\netcoreapp3.1\ConsoleApp1Exercise.genruntimeconfig.cache

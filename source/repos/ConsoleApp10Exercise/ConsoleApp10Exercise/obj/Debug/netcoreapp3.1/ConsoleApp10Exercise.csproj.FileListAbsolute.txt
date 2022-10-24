@@ -1,0 +1,13 @@
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\bin\Debug\netcoreapp3.1\ConsoleApp10Exercise.exe
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\bin\Debug\netcoreapp3.1\ConsoleApp10Exercise.deps.json
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\bin\Debug\netcoreapp3.1\ConsoleApp10Exercise.runtimeconfig.json
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\bin\Debug\netcoreapp3.1\ConsoleApp10Exercise.runtimeconfig.dev.json
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\bin\Debug\netcoreapp3.1\ConsoleApp10Exercise.dll
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\bin\Debug\netcoreapp3.1\ConsoleApp10Exercise.pdb
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\obj\Debug\netcoreapp3.1\ConsoleApp10Exercise.AssemblyInfoInputs.cache
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\obj\Debug\netcoreapp3.1\ConsoleApp10Exercise.AssemblyInfo.cs
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\obj\Debug\netcoreapp3.1\ConsoleApp10Exercise.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\obj\Debug\netcoreapp3.1\ConsoleApp10Exercise.dll
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\obj\Debug\netcoreapp3.1\ConsoleApp10Exercise.pdb
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\obj\Debug\netcoreapp3.1\ConsoleApp10Exercise.genruntimeconfig.cache
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp10Exercise\ConsoleApp10Exercise\obj\Debug\netcoreapp3.1\ConsoleApp10Exercise.csprojAssemblyReference.cache

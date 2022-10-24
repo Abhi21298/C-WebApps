@@ -1,0 +1,46 @@
+﻿@model IEnumerable<WebApplication10Exercise3.Models.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.StudID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.StudID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StudName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Age)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,23 @@
+﻿@model IEnumerable<WebApplication10.Models.Customer>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@foreach(var item in Model)
+{
+    <span>@item.Name</span>
+    <h4>@item.Surname</h4>
+    <p>@item.Age, @item.Gender</p>
+
+    <span>
+        @Html.ActionLink("Edit", "Edit")
+    </span>
+    <br /><br />
+}

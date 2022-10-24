@@ -1,0 +1,7 @@
+C:\Users\AbhijeetMRao\source\repos\WebApplicationLASTDAY1\WebApplicationLASTDAY1\obj\Docker\publish\WebApplicationLASTDAY1.exe
+C:\Users\AbhijeetMRao\source\repos\WebApplicationLASTDAY1\WebApplicationLASTDAY1\obj\Docker\publish\appsettings.Development.json
+C:\Users\AbhijeetMRao\source\repos\WebApplicationLASTDAY1\WebApplicationLASTDAY1\obj\Docker\publish\appsettings.json
+C:\Users\AbhijeetMRao\source\repos\WebApplicationLASTDAY1\WebApplicationLASTDAY1\obj\Docker\publish\WebApplicationLASTDAY1.dll
+C:\Users\AbhijeetMRao\source\repos\WebApplicationLASTDAY1\WebApplicationLASTDAY1\obj\Docker\publish\WebApplicationLASTDAY1.deps.json
+C:\Users\AbhijeetMRao\source\repos\WebApplicationLASTDAY1\WebApplicationLASTDAY1\obj\Docker\publish\WebApplicationLASTDAY1.runtimeconfig.json
+C:\Users\AbhijeetMRao\source\repos\WebApplicationLASTDAY1\WebApplicationLASTDAY1\obj\Docker\publish\WebApplicationLASTDAY1.pdb

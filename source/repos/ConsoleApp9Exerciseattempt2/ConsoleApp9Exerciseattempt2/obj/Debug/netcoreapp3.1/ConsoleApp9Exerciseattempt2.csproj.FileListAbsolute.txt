@@ -1,0 +1,13 @@
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\bin\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.exe
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\bin\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.deps.json
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\bin\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.runtimeconfig.json
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\bin\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.runtimeconfig.dev.json
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\bin\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.dll
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\bin\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.pdb
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\obj\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.csprojAssemblyReference.cache
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\obj\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.AssemblyInfoInputs.cache
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\obj\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.AssemblyInfo.cs
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\obj\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\obj\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.dll
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\obj\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.pdb
+C:\Users\AbhijeetMRao\source\repos\ConsoleApp9Exerciseattempt2\ConsoleApp9Exerciseattempt2\obj\Debug\netcoreapp3.1\ConsoleApp9Exerciseattempt2.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\bin\Debug\netcoreapp3.1\Booking.Core.deps.json
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\bin\Debug\netcoreapp3.1\Booking.Core.dll
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\bin\Debug\netcoreapp3.1\Booking.Core.pdb
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\obj\Debug\netcoreapp3.1\Booking.Core.AssemblyInfoInputs.cache
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\obj\Debug\netcoreapp3.1\Booking.Core.AssemblyInfo.cs
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\obj\Debug\netcoreapp3.1\Booking.Core.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\obj\Debug\netcoreapp3.1\Booking.Core.dll
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\obj\Debug\netcoreapp3.1\Booking.Core.pdb
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\bin\Debug\netcoreapp3.1\Booking.Core.runtimeconfig.json
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\bin\Debug\netcoreapp3.1\Booking.Core.runtimeconfig.dev.json
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\obj\Debug\netcoreapp3.1\Booking.Core.genruntimeconfig.cache
+C:\Users\AbhijeetMRao\source\repos\BookingSystem\Booking.Core\obj\Debug\netcoreapp3.1\Booking.Core.csprojAssemblyReference.cache

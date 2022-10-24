@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbKs9Zt/x9LNrE1et/Qi7P8LhVI1m04WNxBfFDWzpYjsBXO1f8J5LQ3dstO9jPuzA7E/KZBR5JugihKxWazTyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AbhijeetMRao\\source\\repos\\WebApplication23Exercise\\WebApplication23Exercise\\WebApplication23Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AbhijeetMRao\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
